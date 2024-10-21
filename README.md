@@ -4,5 +4,5 @@
 <img src="https://github.com/user-attachments/assets/182f241f-5112-400d-918c-5d854e9ed41d" height="600" width="300" alt="Video Thumbnail"/>
 
 
-## Observe how the bars are compared and swapped in real-time with a delay for better understanding how algorithms work + Coroutines for asynchronous.
+### Bars are compared and swapped in real-time with a delay for better understanding how algorithms work + Coroutines for asynchronous.
 
